@@ -120,6 +120,10 @@ _**Note:** Add your program descriptions below._
 
 **[The code for section 8 creates a program for a double coin flipper [section 8](section8.js)]**
 
+### v0.9
+
+**[The code for section 9 creates a program that converts between binary and decimal numbers [section 9](section9.js)]**
+
 ### Midterm project
 
 _**Note:** Add your project designs below._
