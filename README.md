@@ -130,6 +130,8 @@ _**Note:** Add your program descriptions below._
 
 ### v0.11
 
+**[The code for section 11 creates a program to display a random set of constellations on the microbit [section 11](section11.js)]**
+
 ### Midterm project
 
 _**Note:** Add your project designs below._
