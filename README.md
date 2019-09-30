@@ -116,7 +116,9 @@ _**Note:** Add your program descriptions below._
 
 **[The code for section 7 shows how to create a program to use loops to create random LED patterns [section 7](section7.js)]**
 
-_**Note:** Add your project designs below._
+### v0.8
+
+**[The code for section 8 creates a program for a double coin flipper [section 8](section8.js)]**
 
 ### Midterm project
 
