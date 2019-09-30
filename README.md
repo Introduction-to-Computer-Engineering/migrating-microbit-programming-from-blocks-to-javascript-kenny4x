@@ -102,6 +102,10 @@ _**Note:** Add your program descriptions below._
 
 **[The code for section 3 shows how to create a program of three variables to keep score for a game [javascript](section3.js)]**
 
+### v0.4
+
+**[The code for section 4 shows how to create a program for a game of rock, paper, scissors [javascript](section4.js)]**
+
 ## Designs
 
 ### v0.7
