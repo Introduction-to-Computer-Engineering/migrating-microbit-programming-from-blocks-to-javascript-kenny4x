@@ -98,6 +98,10 @@ _**Note:** Add your program descriptions below._
 
 **[The code for section 2 shows how to change the LED from either a happy or sad face by pressing either A or B on the microbit [javascript](section2.js)]**
 
+### v0.3
+
+**[The code for section 3 shows how to create a program of three variables to keep score for a game [javascript](section3.js)]**
+
 ## Designs
 
 ### v0.7
