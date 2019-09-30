@@ -92,7 +92,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.1
 
-**[your description here, linking to the JavaScript [file](example.js)**]
+**[This is the code for section 1 and shows how to display a happy face, then switch to a sad face [javascript](migration.js)**]
 
 ### v0.2
 
