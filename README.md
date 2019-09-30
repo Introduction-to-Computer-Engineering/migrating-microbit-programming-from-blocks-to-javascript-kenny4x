@@ -96,7 +96,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.2
 
-**[The code for section 2 shows how to change the LED from either a happy or sad face by pressing either A or B on the microbit [javascript](section2)]**
+**[The code for section 2 shows how to change the LED from either a happy or sad face by pressing either A or B on the microbit [javascript](section2.js)]**
 
 ## Designs
 
