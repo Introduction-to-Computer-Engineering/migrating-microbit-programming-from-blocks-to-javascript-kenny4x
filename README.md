@@ -108,15 +108,13 @@ _**Note:** Add your program descriptions below._
 
 ### v0.5
 
-**[The code fro section 5 shows how to create a loop for a program [section 5](section5.js)]**
+**[The code for section 5 shows how to create a loop for a program [section 5](section5.js)]**
 
 ## Designs
 
 ### v0.7
 
-One sentence description of the [program](new_program.js) just committed. It does so and so....
-
-
+**[The code for section 7 shows how to create a program to use loops to create random LED patterns [section 7](section7.js)]**
 
 _**Note:** Add your project designs below._
 
