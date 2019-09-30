@@ -124,6 +124,12 @@ _**Note:** Add your program descriptions below._
 
 **[The code for section 9 creates a program that converts between binary and decimal numbers [section 9](section9.js)]**
 
+### v0.10
+
+**[The code for section 10 creates a program for morse code[section 10](section10.js)]**
+
+### v0.11
+
 ### Midterm project
 
 _**Note:** Add your project designs below._
