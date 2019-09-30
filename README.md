@@ -92,19 +92,23 @@ _**Note:** Add your program descriptions below._
 
 ### v0.1
 
-**[This is the code for section 1 and shows how to display a happy face, then switch to a sad face [javascript](migration.js)**]
+**[This is the code for section 1 and shows how to display a happy face, then switch to a sad face [section 1](migration.js)**]
 
 ### v0.2
 
-**[The code for section 2 shows how to change the LED from either a happy or sad face by pressing either A or B on the microbit [javascript](section2.js)]**
+**[The code for section 2 shows how to change the LED from either a happy or sad face by pressing either A or B on the microbit [section 2](section2.js)]**
 
 ### v0.3
 
-**[The code for section 3 shows how to create a program of three variables to keep score for a game [javascript](section3.js)]**
+**[The code for section 3 shows how to create a program of three variables to keep score for a game [section 3](section3.js)]**
 
 ### v0.4
 
-**[The code for section 4 shows how to create a program for a game of rock, paper, scissors [javascript](section4.js)]**
+**[The code for section 4 shows how to create a program for a game of rock, paper, scissors [section 4](section4.js)]**
+
+### v0.5
+
+**[The code fro section 5 shows how to create a loop for a program [section 5](section5.js)]**
 
 ## Designs
 
